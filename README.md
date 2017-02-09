@@ -1,2 +1,2 @@
 # cve
-cve collection
+cve collections
